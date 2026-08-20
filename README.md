@@ -261,33 +261,6 @@ Selected
    ↓
 Offer
 ```
----
-## Screenshots
-
-### Application Running
-
-![Application Running](screenshots/application-running.png)
-
-### Students API
-
-![Students API](screenshots/students-api.png)
-
-### Eligibility Check
-
-![Eligibility API](screenshots/eligibility-api.png)
-
-### Applications API
-
-![Applications API](screenshots/applications-api.png)
-
-### Interviews API
-
-![Interviews API](screenshots/interviews-api.png)
-
-### Placement Analytics
-
-![Analytics API](screenshots/analytics-api.png)
-
 
 ## Testing
 
