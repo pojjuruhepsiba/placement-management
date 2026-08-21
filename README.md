@@ -261,7 +261,42 @@ Selected
    ↓
 Offer
 ```
+---
+## Screenshots
 
+### Application Running
+
+![Application Running](Screenshot%202026-08-20%20204019.png)
+
+### Students API
+
+![Students API](Screenshot%202026-08-20%20202736.png)
+
+### Eligibility Check
+
+![Eligibility API](Screenshot%202026-08-20%20202933.png)
+
+### Applications API
+
+![Applications API](Screenshot%202026-08-20%20203748.png)
+
+### Interviews API
+
+![Interviews API](Screenshot%202026-08-20%20203847.png)
+
+### Placement Analytics
+
+![Placement Analytics](Screenshot%202026-08-20%20203931.png)
+
+### Additional Analytics View
+
+![Analytics View](Screenshot%202026-08-20%20204011.png)
+
+### Security Login
+
+![Security Login](Screenshot%202026-08-20%20185847.png)
+
+---
 ## Testing
 
 The REST APIs were tested using PowerShell `Invoke-RestMethod`.
